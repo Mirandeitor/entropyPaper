@@ -10,8 +10,8 @@ The data that support the findings will be available upon request from the corre
 
 Main Script
 
-- scriptRhytmicMDRQA.m -> controls the whole process of analysis. The script loads the data from one of the tasks and processes the data using multidimensional RQA on the time series of interest. Particularly:
-      * First select all the infant codes and visits from a parent folder where all the subfolders with the sensor data are located.
+- scriptRhytmicMDRQA.m -> controls the whole process of analysis. The script loads the data from one of the tasks and processes the data using multidimensional RQA on the time series of interest. Particularly:\\
+      * First select all the infant codes and visits from a parent folder where all the subfolders with the sensor data are located.\\
       * Loads a conversion file which main goal is to convert the sensor internal codes to body parts of interest.
       * Prompt a gui to select which parts are of interest for the analysis and remove unimportant data to save some memory.
       * Pre-process the data by filtering and interpolating missing data.
