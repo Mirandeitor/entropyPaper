@@ -43,6 +43,6 @@ If you ever use parts of this code for your analysis please cite:
 
 For the MdRQA part
 
-- Wallot, S., Roepstorff, A., & Mønster, D. (2016). Multidimensional Recurrence Quantification Analysis (MdRQA) for the Analysis of Multidimensional Time-Series: A Software Implementation in MATLAB and Its Application to Group-Level Data in Joint Action. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.01835 \
+- Wallot, S., Roepstorff, A., & Mønster, D. (2016). Multidimensional Recurrence Quantification Analysis (MdRQA) for the Analysis of Multidimensional Time-Series: A Software Implementation in MATLAB and Its Application to Group-Level Data in Joint Action. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.01835 
 
 - Wallot, S., & Mønster, D. (2018). Calculation of average mutual information (ami) and false-nearest neighbors (fnn) for the estimation of embedding parameters of multidimensional time series in Matlab. Frontiers in psychology, 9, 1679.
